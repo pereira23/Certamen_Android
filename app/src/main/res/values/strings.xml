@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Certamen_Android</string>
+    <string name="caja1">N?</string>
+    <string name="caja3">n?</string>
+    <string name="caja2">N?</string>
+    <string name="btngenerar">GENERAR NÚMEROS</string>
+    <string name="btnsuma">+</string>
+    <string name="btnresta">-</string>
+    <string name="btnmult">x</string>
+    <string name="btndiv">/</string>
+    <string name="btnlimpiar">C</string>
+    <string name="btnpar">¿RESULTADO ES PAR?</string>
+    <string name="btnprimo">¿RESULTADO ES PRIMO?</string>
+    <string name="btnresult1">RESULTADO</string>
+    <string name="btnresultado">C</string>
+
+</resources>

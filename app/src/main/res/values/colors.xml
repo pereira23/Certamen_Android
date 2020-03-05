@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bacground">#cdc6ae</color>
+    <color name="blanco">#ffffff</color>
+    <color name="generarrandom">#f57b51</color>
+    <color name="mas">#ee6352</color>
+    <color name="menos">#59cd90</color>
+    <color name="limpiar">#3fa7d6</color>
+    <color name="mult">#fac05e</color>
+    <color name="div">#f79d84</color>
+    <color name="resultadopar">#85cb33</color>
+    <color name="resultadoprimo">#725ac1</color>
+    <color name="resultado">#d81e5b</color>
+    <color name="resultnumerico">#58355e</color>
+</resources>
